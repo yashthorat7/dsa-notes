@@ -1,0 +1,2918 @@
+[
+  {
+    "id": 50,
+    "name": "Pow(x, n)",
+    "difficulty": "Medium",
+    "pattern": "Math & Number Theory Pattern",
+    "leetcode_url": "https://leetcode.com/problems/powx-n/",
+    "companies": [
+      "Adobe",
+      "Amazon",
+      "Apple",
+      "Asana",
+      "Bloomberg",
+      "Meta",
+      "Goldman Sachs",
+      "Google",
+      "LinkedIn",
+      "Microsoft",
+      "Oracle",
+      "PayPal",
+      "Uber",
+      "VMware",
+      "Walmart Labs"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=g9YQyYi4IQQ",
+    "video_id": "g9YQyYi4IQQ"
+  },
+  {
+    "id": 217,
+    "name": "Contains Duplicate",
+    "difficulty": "Easy",
+    "pattern": "Arrays & Hashing Pattern",
+    "leetcode_url": "https://leetcode.com/problems/contains-duplicate/",
+    "companies": [
+      "Amazon",
+      "Adobe",
+      "Google",
+      "Apple",
+      "Microsoft",
+      "Bloomberg",
+      "TCS"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=3OamzN90kPg",
+    "video_id": "3OamzN90kPg"
+  },
+  {
+    "id": 242,
+    "name": "Valid Anagram",
+    "difficulty": "Easy",
+    "pattern": "Arrays & Hashing Pattern",
+    "leetcode_url": "https://leetcode.com/problems/valid-anagram/",
+    "companies": [
+      "Meta",
+      "Bloomberg",
+      "Amazon",
+      "Spotify",
+      "Microsoft",
+      "Goldman Sachs",
+      "Flipkart",
+      "Paytm",
+      "Zoho",
+      "Cognizant"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=9UtInBqnCgA",
+    "video_id": "9UtInBqnCgA"
+  },
+  {
+    "id": 1,
+    "name": "Two Sum",
+    "difficulty": "Easy",
+    "pattern": "Arrays & Hashing Pattern",
+    "leetcode_url": "https://leetcode.com/problems/two-sum/",
+    "companies": [
+      "Amazon",
+      "Adobe",
+      "Google",
+      "Apple",
+      "Microsoft",
+      "Meta",
+      "Zoho",
+      "Walmart Global Tech",
+      "Accenture"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=KLlXCFG5TnA",
+    "video_id": "KLlXCFG5TnA"
+  },
+  {
+    "id": 49,
+    "name": "Group Anagrams",
+    "difficulty": "Medium",
+    "pattern": "Arrays & Hashing Pattern",
+    "leetcode_url": "https://leetcode.com/problems/group-anagrams/",
+    "companies": [
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Apple",
+      "JPMorgan",
+      "BlackRock",
+      "Flipkart",
+      "Paytm",
+      "Zoho",
+      "Accenture"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=vzdNOK2oDA4",
+    "video_id": "vzdNOK2oDA4"
+  },
+  {
+    "id": 347,
+    "name": "Top K Frequent Elements",
+    "difficulty": "Medium",
+    "pattern": "Arrays & Hashing Pattern",
+    "leetcode_url": "https://leetcode.com/problems/top-k-frequent-elements/",
+    "companies": [
+      "Meta",
+      "Amazon",
+      "Microsoft",
+      "Google",
+      "Oracle",
+      "Uber",
+      "Flipkart",
+      "Paytm",
+      "Zoho",
+      "Infosys"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=YPTqKIgVk-k",
+    "video_id": "YPTqKIgVk-k"
+  },
+  {
+    "id": 128,
+    "name": "Longest Consecutive Sequence",
+    "difficulty": "Medium",
+    "pattern": "Arrays & Hashing Pattern",
+    "leetcode_url": "https://leetcode.com/problems/longest-consecutive-sequence/",
+    "companies": [
+      "Amazon",
+      "Microsoft",
+      "Google",
+      "Adobe",
+      "Spotify",
+      "Bloomberg",
+      "Flipkart",
+      "Paytm",
+      "Zoho",
+      "Cognizant"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=P6RZZMu_maU",
+    "video_id": "P6RZZMu_maU"
+  },
+  {
+    "id": 121,
+    "name": "Best Time to Buy and Sell Stock",
+    "difficulty": "Easy",
+    "pattern": "Single-Pass Array Optimization Pattern",
+    "leetcode_url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
+    "companies": [
+      "Amazon",
+      "Meta",
+      "Microsoft",
+      "Bloomberg",
+      "Google",
+      "Goldman Sachs",
+      "Walmart Global Tech",
+      "TCS"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=1pkOGcDnx5o",
+    "video_id": "1pkOGcDnx5o"
+  },
+  {
+    "id": 53,
+    "name": "Maximum Subarray (Kadane's Algorithm)",
+    "difficulty": "Medium",
+    "pattern": "Single-Pass Array Optimization Pattern",
+    "leetcode_url": "https://leetcode.com/problems/maximum-subarray/",
+    "companies": [
+      "LinkedIn",
+      "Amazon",
+      "Apple",
+      "Microsoft",
+      "Adobe",
+      "Google",
+      "Samsung",
+      "Walmart Global Tech",
+      "Infosys"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=5WZl3MMT0Eg",
+    "video_id": "5WZl3MMT0Eg"
+  },
+  {
+    "id": 2149,
+    "name": "Rearrange Array Elements by Sign",
+    "difficulty": "Medium",
+    "pattern": "Single-Pass Array Optimization Pattern",
+    "leetcode_url": "https://leetcode.com/problems/rearrange-array-elements-by-sign/",
+    "companies": [
+      "Amazon",
+      "Flipkart",
+      "Ola",
+      "Accenture"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=h4aBagy4Uok",
+    "video_id": "h4aBagy4Uok"
+  },
+  {
+    "id": 31,
+    "name": "Next Permutation",
+    "difficulty": "Medium",
+    "pattern": "Single-Pass Array Optimization Pattern",
+    "leetcode_url": "https://leetcode.com/problems/next-permutation/",
+    "companies": [
+      "Adobe",
+      "Amazon",
+      "Apple",
+      "Atlassian",
+      "Bloomberg",
+      "ByteDance",
+      "Cisco",
+      "DoorDash",
+      "Meta",
+      "Factset",
+      "Flipkart",
+      "Goldman Sachs",
+      "IBM",
+      "JPMorgan",
+      "Microsoft",
+      "PayPal",
+      "Rubrik",
+      "Salesforce",
+      "Snapchat",
+      "TCS",
+      "VMware"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=JDOXKqF60RQ",
+    "video_id": "JDOXKqF60RQ"
+  },
+  {
+    "id": 26,
+    "name": "Remove Duplicates from Sorted Array",
+    "difficulty": "Easy",
+    "pattern": "Two-Pointer Pattern",
+    "leetcode_url": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/",
+    "companies": [
+      "Meta",
+      "Amazon",
+      "Adobe",
+      "Microsoft",
+      "LinkedIn",
+      "Bloomberg",
+      "Flipkart",
+      "Myntra",
+      "Cognizant"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=DEJAZBq0FDA",
+    "video_id": "DEJAZBq0FDA"
+  },
+  {
+    "id": 283,
+    "name": "Move Zeroes",
+    "difficulty": "Easy",
+    "pattern": "Two-Pointer Pattern",
+    "leetcode_url": "https://leetcode.com/problems/move-zeroes/",
+    "companies": [
+      "Meta",
+      "Microsoft",
+      "Apple",
+      "Amazon",
+      "Yandex",
+      "Bloomberg",
+      "Flipkart",
+      "Myntra",
+      "Accenture"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=aayNRwUN3Do",
+    "video_id": "aayNRwUN3Do"
+  },
+  {
+    "id": 455,
+    "name": "Assign Cookies",
+    "difficulty": "Easy",
+    "pattern": "Two-Pointer Pattern",
+    "leetcode_url": "https://leetcode.com/problems/assign-cookies/",
+    "companies": [
+      "Apple",
+      "Flipkart",
+      "Myntra",
+      "Infosys"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=DIX2p7P9980",
+    "video_id": "DIX2p7P9980"
+  },
+  {
+    "id": 881,
+    "name": "Boats to Save People",
+    "difficulty": "Medium",
+    "pattern": "Two-Pointer Pattern",
+    "leetcode_url": "https://leetcode.com/problems/boats-to-save-people/",
+    "companies": [
+      "Salesforce",
+      "Amazon",
+      "Intuit",
+      "Microsoft",
+      "Uber",
+      "Apple",
+      "Flipkart",
+      "Myntra",
+      "Infosys"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=v1WPcD3hI0g",
+    "video_id": "v1WPcD3hI0g"
+  },
+  {
+    "id": 75,
+    "name": "Sort Colors (Sort 0s, 1s, 2s)",
+    "difficulty": "Medium",
+    "pattern": "Two-Pointer Pattern",
+    "leetcode_url": "https://leetcode.com/problems/sort-colors/",
+    "companies": [
+      "Microsoft",
+      "Amazon",
+      "VMware",
+      "Adobe",
+      "Salesforce",
+      "Nvidia",
+      "Flipkart",
+      "Myntra",
+      "Deloitte"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=4xbWSRHAqac",
+    "video_id": "4xbWSRHAqac"
+  },
+  {
+    "id": 125,
+    "name": "Valid Palindrome",
+    "difficulty": "Easy",
+    "pattern": "Two-Pointer Pattern",
+    "leetcode_url": "https://leetcode.com/problems/valid-palindrome/",
+    "companies": [
+      "Meta",
+      "Amazon",
+      "Microsoft",
+      "Apple",
+      "Adobe",
+      "Bloomberg",
+      "Flipkart",
+      "Myntra",
+      "Infosys"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=0k_eXXchT5E",
+    "video_id": "0k_eXXchT5E"
+  },
+  {
+    "id": 167,
+    "name": "Two Sum II - Input Array Is Sorted",
+    "difficulty": "Easy",
+    "pattern": "Two-Pointer Pattern",
+    "leetcode_url": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/",
+    "companies": [
+      "Amazon",
+      "Adobe",
+      "Google",
+      "Apple",
+      "Microsoft",
+      "Yahoo",
+      "Flipkart",
+      "Myntra",
+      "Infosys"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=cQ1Oz4ckcMM",
+    "video_id": "cQ1Oz4ckcMM"
+  },
+  {
+    "id": 15,
+    "name": "3Sum",
+    "difficulty": "Medium",
+    "pattern": "Two-Pointer Pattern",
+    "leetcode_url": "https://leetcode.com/problems/3sum/",
+    "companies": [
+      "Amazon",
+      "Meta",
+      "Microsoft",
+      "Apple",
+      "Adobe",
+      "Google",
+      "Infosys"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=jzZsG8n2R9A",
+    "video_id": "jzZsG8n2R9A"
+  },
+  {
+    "id": 16,
+    "name": "3Sum Closest",
+    "difficulty": "Medium",
+    "pattern": "Two-Pointer Pattern",
+    "leetcode_url": "https://leetcode.com/problems/3sum-closest/",
+    "companies": [
+      "Meta",
+      "Amazon",
+      "Adobe",
+      "Apple",
+      "Google",
+      "Microsoft",
+      "Flipkart",
+      "Myntra",
+      "Wipro"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=qBr2b4dqZiQ",
+    "video_id": "qBr2b4dqZiQ"
+  },
+  {
+    "id": 11,
+    "name": "Container With Most Water",
+    "difficulty": "Medium",
+    "pattern": "Two-Pointer Pattern",
+    "leetcode_url": "https://leetcode.com/problems/container-with-most-water/",
+    "companies": [
+      "Amazon",
+      "Microsoft",
+      "Adobe",
+      "Meta",
+      "Google",
+      "Apple",
+      "Flipkart",
+      "Myntra",
+      "Infosys"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=UuiTKBwPgAo",
+    "video_id": "UuiTKBwPgAo"
+  },
+  {
+    "id": 42,
+    "name": "Trapping Rain Water",
+    "difficulty": "Hard",
+    "pattern": "Two-Pointer Pattern",
+    "leetcode_url": "https://leetcode.com/problems/trapping-rain-water/",
+    "companies": [
+      "Amazon",
+      "Goldman Sachs",
+      "Meta",
+      "Bloomberg",
+      "Microsoft",
+      "Google",
+      "Flipkart",
+      "Myntra",
+      "TCS"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=ZI2z5pq0TqA",
+    "video_id": "ZI2z5pq0TqA"
+  },
+  {
+    "id": 18,
+    "name": "4Sum",
+    "difficulty": "Medium",
+    "pattern": "Two-Pointer Pattern",
+    "leetcode_url": "https://leetcode.com/problems/4sum/",
+    "companies": [
+      "Adobe",
+      "Amazon",
+      "Apple",
+      "Goldman Sachs"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=EYeR-_1NRlQ",
+    "video_id": "EYeR-_1NRlQ"
+  },
+  {
+    "id": 238,
+    "name": "Product of Array Except Self",
+    "difficulty": "Medium",
+    "pattern": "Prefix Sum Pattern",
+    "leetcode_url": "https://leetcode.com/problems/product-of-array-except-self/",
+    "companies": [
+      "Amazon",
+      "Meta",
+      "Microsoft",
+      "Asana",
+      "Apple",
+      "Uber",
+      "Flipkart",
+      "Paytm",
+      "Wipro"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=bNvIQI2wAjk",
+    "video_id": "bNvIQI2wAjk"
+  },
+  {
+    "id": 560,
+    "name": "Subarray Sum Equals K",
+    "difficulty": "Medium",
+    "pattern": "Prefix Sum Pattern",
+    "leetcode_url": "https://leetcode.com/problems/subarray-sum-equals-k/",
+    "companies": [
+      "Meta",
+      "Amazon",
+      "Google",
+      "Microsoft",
+      "Oracle",
+      "TikTok",
+      "Flipkart",
+      "Paytm",
+      "Cognizant"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=fFVZt-6sgyo",
+    "video_id": "fFVZt-6sgyo"
+  },
+  {
+    "id": 2461,
+    "name": "Maximum Sum of Distinct Subarrays With Length K",
+    "difficulty": "Medium",
+    "pattern": "Sliding Window Pattern",
+    "leetcode_url": "https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/",
+    "companies": [
+      "Amazon",
+      "Google",
+      "Bloomberg"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=x0x0w1_qjE0",
+    "video_id": "x0x0w1_qjE0"
+  },
+  {
+    "id": 567,
+    "name": "Permutation in String",
+    "difficulty": "Medium",
+    "pattern": "Sliding Window Pattern",
+    "leetcode_url": "https://leetcode.com/problems/permutation-in-string/",
+    "companies": [
+      "Microsoft",
+      "Apple",
+      "Yandex",
+      "Oracle",
+      "Amazon",
+      "Google",
+      "Flipkart",
+      "Swiggy",
+      "Deloitte"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=UbyhOgBNlyo",
+    "video_id": "UbyhOgBNlyo"
+  },
+  {
+    "id": 438,
+    "name": "Find All Anagrams in a String",
+    "difficulty": "Medium",
+    "pattern": "Sliding Window Pattern",
+    "leetcode_url": "https://leetcode.com/problems/find-all-anagrams-in-a-string/",
+    "companies": [
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Apple",
+      "Adobe",
+      "Uber",
+      "Flipkart",
+      "Swiggy",
+      "TCS"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=G8bHPicZ80A",
+    "video_id": "G8bHPicZ80A"
+  },
+  {
+    "id": 1652,
+    "name": "Defuse the Bomb",
+    "difficulty": "Easy",
+    "pattern": "Sliding Window Pattern",
+    "leetcode_url": "https://leetcode.com/problems/defuse-the-bomb/",
+    "companies": [
+      "Amazon",
+      "Microsoft"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=d_kX27tG43E",
+    "video_id": "d_kX27tG43E"
+  },
+  {
+    "id": 2134,
+    "name": "Minimum Swaps to Group All 1's Together II",
+    "difficulty": "Medium",
+    "pattern": "Sliding Window Pattern",
+    "leetcode_url": "https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/",
+    "companies": [
+      "Amazon",
+      "Flipkart",
+      "Swiggy",
+      "Wipro"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=4dFp5y3cI30",
+    "video_id": "4dFp5y3cI30"
+  },
+  {
+    "id": 209,
+    "name": "Minimum Size Subarray Sum",
+    "difficulty": "Medium",
+    "pattern": "Sliding Window Pattern",
+    "leetcode_url": "https://leetcode.com/problems/minimum-size-subarray-sum/",
+    "companies": [
+      "Meta",
+      "Amazon",
+      "Microsoft",
+      "Bloomberg",
+      "Goldman Sachs",
+      "Google",
+      "Flipkart",
+      "Swiggy",
+      "Infosys"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=aYqYMIJEx50",
+    "video_id": "aYqYMIJEx50"
+  },
+  {
+    "id": 3,
+    "name": "Longest Substring Without Repeating Characters",
+    "difficulty": "Medium",
+    "pattern": "Sliding Window Pattern",
+    "leetcode_url": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
+    "companies": [
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Bloomberg",
+      "Apple",
+      "Google",
+      "Walmart Global Tech",
+      "Samsung",
+      "Deloitte"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=wiGpQwVHdE0",
+    "video_id": "wiGpQwVHdE0"
+  },
+  {
+    "id": 424,
+    "name": "Longest Repeating Character Replacement",
+    "difficulty": "Medium",
+    "pattern": "Sliding Window Pattern",
+    "leetcode_url": "https://leetcode.com/problems/longest-repeating-character-replacement/",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Uber",
+      "Adobe",
+      "Flipkart",
+      "Swiggy",
+      "Wipro"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=gqXU1UyA8pk",
+    "video_id": "gqXU1UyA8pk"
+  },
+  {
+    "id": 1004,
+    "name": "Max Consecutive Ones III",
+    "difficulty": "Medium",
+    "pattern": "Sliding Window Pattern",
+    "leetcode_url": "https://leetcode.com/problems/max-consecutive-ones-iii/",
+    "companies": [
+      "Meta",
+      "Microsoft",
+      "Google",
+      "Amazon",
+      "ByteDance",
+      "Apple",
+      "Flipkart",
+      "Swiggy",
+      "Cognizant"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=3E4JBHSLpYk",
+    "video_id": "3E4JBHSLpYk"
+  },
+  {
+    "id": 76,
+    "name": "Minimum Window Substring",
+    "difficulty": "Hard",
+    "pattern": "Sliding Window Pattern",
+    "leetcode_url": "https://leetcode.com/problems/minimum-window-substring/",
+    "companies": [
+      "Meta",
+      "Amazon",
+      "LinkedIn",
+      "Lyft",
+      "Microsoft",
+      "Airbnb",
+      "Flipkart",
+      "Swiggy",
+      "Wipro"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=jSto0O4AJbM",
+    "video_id": "jSto0O4AJbM"
+  },
+  {
+    "id": 73,
+    "name": "Set Matrix Zeroes",
+    "difficulty": "Medium",
+    "pattern": "Matrix Pattern",
+    "leetcode_url": "https://leetcode.com/problems/set-matrix-zeroes/",
+    "companies": [
+      "Microsoft",
+      "Amazon",
+      "Meta",
+      "Apple",
+      "Bloomberg",
+      "Samsung R&D Institute",
+      "Flipkart",
+      "Accenture"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=T41rL0L3Pnw",
+    "video_id": "T41rL0L3Pnw"
+  },
+  {
+    "id": 54,
+    "name": "Spiral Matrix",
+    "difficulty": "Medium",
+    "pattern": "Matrix Pattern",
+    "leetcode_url": "https://leetcode.com/problems/spiral-matrix/",
+    "companies": [
+      "Microsoft",
+      "Amazon",
+      "Apple",
+      "Meta",
+      "Google",
+      "Adobe",
+      "Samsung R&D Institute",
+      "Flipkart",
+      "TCS"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=BJnMZNwUk1M",
+    "video_id": "BJnMZNwUk1M"
+  },
+  {
+    "id": 48,
+    "name": "Rotate Image (Rotate 90 Degrees)",
+    "difficulty": "Medium",
+    "pattern": "Matrix Pattern",
+    "leetcode_url": "https://leetcode.com/problems/rotate-image/",
+    "companies": [
+      "Cisco",
+      "Meta",
+      "Microsoft",
+      "Amazon",
+      "Apple",
+      "Adobe",
+      "Samsung R&D Institute",
+      "Flipkart",
+      "TCS"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=fMSJSS7EvUw",
+    "video_id": "fMSJSS7EvUw"
+  },
+  {
+    "id": 498,
+    "name": "Diagonal Traverse",
+    "difficulty": "Medium",
+    "pattern": "Matrix Pattern",
+    "leetcode_url": "https://leetcode.com/problems/diagonal-traverse/",
+    "companies": [
+      "Meta",
+      "Microsoft",
+      "Google",
+      "Samsung R&D Institute",
+      "Flipkart",
+      "TCS"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=0kO7T3w9c-E",
+    "video_id": "0kO7T3w9c-E"
+  },
+  {
+    "id": 1572,
+    "name": "Matrix Diagonal Sum",
+    "difficulty": "Easy",
+    "pattern": "Matrix Pattern",
+    "leetcode_url": "https://leetcode.com/problems/matrix-diagonal-sum/",
+    "companies": [
+      "Bloomberg",
+      "Amazon",
+      "Samsung R&D Institute",
+      "Flipkart",
+      "TCS"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=4_gQ2iVq_rY",
+    "video_id": "4_gQ2iVq_rY"
+  },
+  {
+    "id": 151,
+    "name": "Reverse Words in a String",
+    "difficulty": "Medium",
+    "pattern": "String Manipulation Pattern",
+    "leetcode_url": "https://leetcode.com/problems/reverse-words-in-a-string/",
+    "companies": [
+      "Microsoft",
+      "Apple",
+      "LinkedIn",
+      "Amazon",
+      "Google",
+      "Visa",
+      "Zoho",
+      "Directi",
+      "Accenture"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=vhnRAaJefrA",
+    "video_id": "vhnRAaJefrA"
+  },
+  {
+    "id": 14,
+    "name": "Longest Common Prefix",
+    "difficulty": "Easy",
+    "pattern": "String Manipulation Pattern",
+    "leetcode_url": "https://leetcode.com/problems/longest-common-prefix/",
+    "companies": [
+      "Meta",
+      "Apple",
+      "Google",
+      "Adobe",
+      "Amazon",
+      "Microsoft",
+      "Zoho",
+      "Directi",
+      "Cognizant"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=0sWShKIJoo4",
+    "video_id": "0sWShKIJoo4"
+  },
+  {
+    "id": 8,
+    "name": "String to Integer (atoi)",
+    "difficulty": "Medium",
+    "pattern": "String Manipulation Pattern",
+    "leetcode_url": "https://leetcode.com/problems/string-to-integer-atoi/",
+    "companies": [
+      "Meta",
+      "Microsoft",
+      "Amazon",
+      "Google",
+      "Bloomberg",
+      "Adobe",
+      "Zoho",
+      "Directi",
+      "Cognizant"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=1Ztp5kK0m9A",
+    "video_id": "1Ztp5kK0m9A"
+  },
+  {
+    "id": 43,
+    "name": "Multiply Strings",
+    "difficulty": "Medium",
+    "pattern": "String Manipulation Pattern",
+    "leetcode_url": "https://leetcode.com/problems/multiply-strings/",
+    "companies": [
+      "Meta",
+      "Microsoft",
+      "Amazon",
+      "Google",
+      "Two Sigma",
+      "Adobe",
+      "Zoho",
+      "Directi",
+      "Accenture"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=1vZswirL8Y8",
+    "video_id": "1vZswirL8Y8"
+  },
+  {
+    "id": 5,
+    "name": "Longest Palindromic Substring",
+    "difficulty": "Medium",
+    "pattern": "String Manipulation Pattern",
+    "leetcode_url": "https://leetcode.com/problems/longest-palindromic-substring/",
+    "companies": [
+      "Amazon",
+      "Microsoft",
+      "Google",
+      "Adobe",
+      "Meta",
+      "Apple",
+      "Zoho",
+      "Directi",
+      "Infosys"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=XYQecbcd6_c",
+    "video_id": "XYQecbcd6_c"
+  },
+  {
+    "id": 647,
+    "name": "Palindromic Substrings",
+    "difficulty": "Medium",
+    "pattern": "String Manipulation Pattern",
+    "leetcode_url": "https://leetcode.com/problems/palindromic-substrings/",
+    "companies": [
+      "Meta",
+      "Twitter",
+      "Expedia",
+      "Zoho",
+      "Directi",
+      "Infosys"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=4RACzI5-du8",
+    "video_id": "4RACzI5-du8"
+  },
+  {
+    "id": 680,
+    "name": "Valid Palindrome II",
+    "difficulty": "Easy",
+    "pattern": "String Manipulation Pattern",
+    "leetcode_url": "https://leetcode.com/problems/valid-palindrome-ii/",
+    "companies": [
+      "Meta",
+      "Amazon",
+      "Microsoft",
+      "Apple",
+      "Bloomberg",
+      "Oracle",
+      "Zoho",
+      "Directi",
+      "Cognizant"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=JrxRYBwG6EI",
+    "video_id": "JrxRYBwG6EI"
+  },
+  {
+    "id": 686,
+    "name": "Repeated String Match",
+    "difficulty": "Medium",
+    "pattern": "String Manipulation Pattern",
+    "leetcode_url": "https://leetcode.com/problems/repeated-string-match/",
+    "companies": [
+      "Google",
+      "Zoho",
+      "Directi",
+      "Cognizant"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=BQ9E-X_lfUo",
+    "video_id": "BQ9E-X_lfUo"
+  },
+  {
+    "id": 214,
+    "name": "Shortest Palindrome",
+    "difficulty": "Hard",
+    "pattern": "String Manipulation Pattern",
+    "leetcode_url": "https://leetcode.com/problems/shortest-palindrome/",
+    "companies": [
+      "Bloomberg",
+      "Microsoft",
+      "Apple",
+      "Zoho",
+      "Directi",
+      "Wipro"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=c4akZZU138g",
+    "video_id": "c4akZZU138g"
+  },
+  {
+    "id": 136,
+    "name": "Single Number",
+    "difficulty": "Easy",
+    "pattern": "Bit Manipulation Pattern",
+    "leetcode_url": "https://leetcode.com/problems/single-number/",
+    "companies": [
+      "Amazon",
+      "Microsoft",
+      "Bloomberg",
+      "Google",
+      "Adobe",
+      "Apple",
+      "Samsung R&D Institute",
+      "Directi",
+      "Wipro"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=qMPX1AOa83k",
+    "video_id": "qMPX1AOa83k"
+  },
+  {
+    "id": 191,
+    "name": "Number of 1 Bits",
+    "difficulty": "Easy",
+    "pattern": "Bit Manipulation Pattern",
+    "leetcode_url": "https://leetcode.com/problems/number-of-1-bits/",
+    "companies": [
+      "Box",
+      "Meta",
+      "Cisco",
+      "Amazon",
+      "Google",
+      "Oracle",
+      "Samsung R&D Institute",
+      "Directi",
+      "Infosys"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=5Km3utixwZs",
+    "video_id": "5Km3utixwZs"
+  },
+  {
+    "id": 338,
+    "name": "Counting Bits",
+    "difficulty": "Easy",
+    "pattern": "Bit Manipulation Pattern",
+    "leetcode_url": "https://leetcode.com/problems/counting-bits/",
+    "companies": [
+      "Amazon",
+      "Google",
+      "Bloomberg",
+      "JPMorgan",
+      "Samsung R&D Institute",
+      "Directi",
+      "Cognizant"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=RyBM56P6Rr0",
+    "video_id": "RyBM56P6Rr0"
+  },
+  {
+    "id": 190,
+    "name": "Reverse Bits",
+    "difficulty": "Easy",
+    "pattern": "Bit Manipulation Pattern",
+    "leetcode_url": "https://leetcode.com/problems/reverse-bits/",
+    "companies": [
+      "Apple",
+      "Meta",
+      "Qualcomm",
+      "Microsoft",
+      "Google",
+      "Samsung R&D Institute",
+      "Directi",
+      "Wipro"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=UcoN6UjAI64",
+    "video_id": "UcoN6UjAI64"
+  },
+  {
+    "id": 371,
+    "name": "Sum of Two Integers",
+    "difficulty": "Medium",
+    "pattern": "Bit Manipulation Pattern",
+    "leetcode_url": "https://leetcode.com/problems/sum-of-two-integers/",
+    "companies": [
+      "Meta",
+      "Samsung R&D Institute",
+      "Directi",
+      "Infosys"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=gVUrDV4tZfY",
+    "video_id": "gVUrDV4tZfY"
+  },
+  {
+    "id": 704,
+    "name": "Binary Search",
+    "difficulty": "Easy",
+    "pattern": "Binary Search Pattern",
+    "leetcode_url": "https://leetcode.com/problems/binary-search/",
+    "companies": [
+      "Amazon",
+      "Apple",
+      "Google",
+      "Microsoft",
+      "Bloomberg",
+      "Adobe",
+      "Flipkart",
+      "MakeMyTrip",
+      "Cognizant"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=s4DPM8ct1pI",
+    "video_id": "s4DPM8ct1pI"
+  },
+  {
+    "id": 74,
+    "name": "Search a 2D Matrix",
+    "difficulty": "Medium",
+    "pattern": "Binary Search Pattern",
+    "leetcode_url": "https://leetcode.com/problems/search-a-2d-matrix/",
+    "companies": [
+      "Meta",
+      "Amazon",
+      "Microsoft",
+      "Bloomberg",
+      "Apple",
+      "Adobe",
+      "Flipkart",
+      "MakeMyTrip",
+      "Cognizant"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=Ber2pi2C0j0",
+    "video_id": "Ber2pi2C0j0"
+  },
+  {
+    "id": 34,
+    "name": "Find First and Last Position of Element in Sorted Array",
+    "difficulty": "Medium",
+    "pattern": "Binary Search Pattern",
+    "leetcode_url": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/",
+    "companies": [
+      "Amazon",
+      "Bloomberg",
+      "ByteDance",
+      "Meta",
+      "Google",
+      "Microsoft",
+      "Oracle",
+      "Uber",
+      "Adobe",
+      "Apple",
+      "Dell",
+      "eBay",
+      "Expedia",
+      "Flipkart",
+      "Goldman Sachs",
+      "PayPal",
+      "Snapchat",
+      "Twitter",
+      "VMware",
+      "Yahoo",
+      "Yandex"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=4sQL7R5ySUU",
+    "video_id": "4sQL7R5ySUU"
+  },
+  {
+    "id": 33,
+    "name": "Search in Rotated Sorted Array",
+    "difficulty": "Medium",
+    "pattern": "Binary Search on Answer Pattern",
+    "leetcode_url": "https://leetcode.com/problems/search-in-rotated-sorted-array/",
+    "companies": [
+      "Amazon",
+      "Meta",
+      "Microsoft",
+      "LinkedIn",
+      "Apple",
+      "Bloomberg",
+      "Walmart Global Tech",
+      "Deloitte"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=U8XENwh8Oy8",
+    "video_id": "U8XENwh8Oy8"
+  },
+  {
+    "id": 153,
+    "name": "Find Minimum in Rotated Sorted Array",
+    "difficulty": "Medium",
+    "pattern": "Binary Search on Answer Pattern",
+    "leetcode_url": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/",
+    "companies": [
+      "Amazon",
+      "Meta",
+      "Microsoft",
+      "Adobe",
+      "Goldman Sachs",
+      "Uber",
+      "Flipkart",
+      "Amazon India",
+      "Deloitte"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=nIVW4P8b1VA",
+    "video_id": "nIVW4P8b1VA"
+  },
+  {
+    "id": 875,
+    "name": "Koko Eating Bananas",
+    "difficulty": "Medium",
+    "pattern": "Binary Search on Answer Pattern",
+    "leetcode_url": "https://leetcode.com/problems/koko-eating-bananas/",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Adobe",
+      "Airbnb",
+      "Apple",
+      "DoorDash",
+      "Meta"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=U2SozAs9RzA",
+    "video_id": "U2SozAs9RzA"
+  },
+  {
+    "id": 410,
+    "name": "Split Array Largest Sum",
+    "difficulty": "Hard",
+    "pattern": "Binary Search on Answer Pattern",
+    "leetcode_url": "https://leetcode.com/problems/split-array-largest-sum/",
+    "companies": [
+      "Google",
+      "Amazon",
+      "TikTok",
+      "Meta",
+      "ByteDance",
+      "Apple",
+      "Flipkart",
+      "Amazon India",
+      "Cognizant"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=YUF3_eBdzsk",
+    "video_id": "YUF3_eBdzsk"
+  },
+  {
+    "id": 1552,
+    "name": "Magnetic Force Between Two Balls",
+    "difficulty": "Medium",
+    "pattern": "Binary Search on Answer Pattern",
+    "leetcode_url": "https://leetcode.com/problems/magnetic-force-between-two-balls/",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Citadel"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=68K_rF1x6hY",
+    "video_id": "68K_rF1x6hY"
+  },
+  {
+    "id": 1011,
+    "name": "Capacity To Ship Packages Within D Days",
+    "difficulty": "Medium",
+    "pattern": "Binary Search on Answer Pattern",
+    "leetcode_url": "https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/",
+    "companies": [
+      "Amazon",
+      "Google",
+      "Morgan Stanley",
+      "Coinbase"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=ER_oLmdc-nw",
+    "video_id": "ER_oLmdc-nw"
+  },
+  {
+    "id": 4,
+    "name": "Median of Two Sorted Arrays",
+    "difficulty": "Hard",
+    "pattern": "Binary Search on Answer Pattern",
+    "leetcode_url": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
+    "companies": [
+      "Amazon",
+      "Adobe",
+      "Goldman Sachs",
+      "Microsoft",
+      "Apple",
+      "Google",
+      "Walmart Global Tech",
+      "Wipro"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=q6IEA26hvMl",
+    "video_id": "q6IEA26hvMl"
+  },
+  {
+    "id": 206,
+    "name": "Reverse Linked List",
+    "difficulty": "Easy",
+    "pattern": "Linked List Pattern",
+    "leetcode_url": "https://leetcode.com/problems/reverse-linked-list/",
+    "companies": [
+      "Amazon",
+      "Microsoft",
+      "Apple",
+      "Bloomberg",
+      "Meta",
+      "Google",
+      "Flipkart",
+      "Microsoft India",
+      "Cognizant"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=G0_I-ZF0S38",
+    "video_id": "G0_I-ZF0S38"
+  },
+  {
+    "id": 19,
+    "name": "Remove Nth Node From End of List",
+    "difficulty": "Medium",
+    "pattern": "Linked List Pattern",
+    "leetcode_url": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
+    "companies": [
+      "Meta",
+      "Amazon",
+      "Microsoft",
+      "Google",
+      "Bloomberg",
+      "Walmart Global Tech",
+      "Accenture"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=XVuQxVej6y8",
+    "video_id": "XVuQxVej6y8"
+  },
+  {
+    "id": 2,
+    "name": "Add Two Numbers",
+    "difficulty": "Medium",
+    "pattern": "Linked List Pattern",
+    "leetcode_url": "https://leetcode.com/problems/add-two-numbers/",
+    "companies": [
+      "Amazon",
+      "Apple",
+      "Meta",
+      "Microsoft",
+      "Bloomberg",
+      "Google",
+      "Flipkart",
+      "Microsoft India",
+      "Cognizant"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=wgFPrzTjm7s",
+    "video_id": "wgFPrzTjm7s"
+  },
+  {
+    "id": 138,
+    "name": "Copy List with Random Pointer",
+    "difficulty": "Medium",
+    "pattern": "Linked List Pattern",
+    "leetcode_url": "https://leetcode.com/problems/copy-list-with-random-pointer/",
+    "companies": [
+      "Meta",
+      "Amazon",
+      "Microsoft",
+      "Bloomberg",
+      "Google",
+      "Apple",
+      "Flipkart",
+      "Microsoft India",
+      "TCS"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=5Y2EiZST97Y",
+    "video_id": "5Y2EiZST97Y"
+  },
+  {
+    "id": 21,
+    "name": "Merge Two Sorted Lists",
+    "difficulty": "Easy",
+    "pattern": "Linked List Two-Pointer Pattern",
+    "leetcode_url": "https://leetcode.com/problems/merge-two-sorted-lists/",
+    "companies": [
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Adobe",
+      "Oracle",
+      "Uber",
+      "Flipkart",
+      "Zoho",
+      "Deloitte"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=XIdigk956u0",
+    "video_id": "XIdigk956u0"
+  },
+  {
+    "id": 876,
+    "name": "Middle of the Linked List",
+    "difficulty": "Easy",
+    "pattern": "Linked List Two-Pointer Pattern",
+    "leetcode_url": "https://leetcode.com/problems/middle-of-the-linked-list/",
+    "companies": [
+      "Amazon",
+      "Adobe",
+      "Meta",
+      "Google",
+      "Microsoft",
+      "Apple",
+      "Flipkart",
+      "Zoho",
+      "TCS"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=A2_ldqM4QcY",
+    "video_id": "A2_ldqM4QcY"
+  },
+  {
+    "id": 141,
+    "name": "Linked List Cycle",
+    "difficulty": "Easy",
+    "pattern": "Linked List Two-Pointer Pattern",
+    "leetcode_url": "https://leetcode.com/problems/linked-list-cycle/",
+    "companies": [
+      "Amazon",
+      "Spotify",
+      "Microsoft",
+      "Oracle",
+      "Visa",
+      "Google",
+      "Flipkart",
+      "Zoho",
+      "Deloitte"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=gBTe7lFR3vc",
+    "video_id": "gBTe7lFR3vc"
+  },
+  {
+    "id": 142,
+    "name": "Linked List Cycle II",
+    "difficulty": "Medium",
+    "pattern": "Linked List Two-Pointer Pattern",
+    "leetcode_url": "https://leetcode.com/problems/linked-list-cycle-ii/",
+    "companies": [
+      "Amazon",
+      "Microsoft",
+      "Flipkart",
+      "Zoho",
+      "Wipro"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=wjYnzkAhcNk",
+    "video_id": "wjYnzkAhcNk"
+  },
+  {
+    "id": 234,
+    "name": "Palindrome Linked List",
+    "difficulty": "Easy",
+    "pattern": "Linked List Two-Pointer Pattern",
+    "leetcode_url": "https://leetcode.com/problems/palindrome-linked-list/",
+    "companies": [
+      "Meta",
+      "Amazon",
+      "Microsoft",
+      "Apple",
+      "Bloomberg",
+      "Google",
+      "Flipkart",
+      "Zoho",
+      "TCS"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=yOzXms1J6Nk",
+    "video_id": "yOzXms1J6Nk"
+  },
+  {
+    "id": 143,
+    "name": "Reorder List",
+    "difficulty": "Medium",
+    "pattern": "Linked List Two-Pointer Pattern",
+    "leetcode_url": "https://leetcode.com/problems/reorder-list/",
+    "companies": [
+      "Amazon",
+      "Microsoft",
+      "Adobe",
+      "Meta",
+      "Bloomberg",
+      "Uber",
+      "Flipkart",
+      "Zoho",
+      "Infosys"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=S5bfdUtrKLM",
+    "video_id": "S5bfdUtrKLM"
+  },
+  {
+    "id": 20,
+    "name": "Valid Parentheses",
+    "difficulty": "Easy",
+    "pattern": "Stack & Queue Pattern",
+    "leetcode_url": "https://leetcode.com/problems/valid-parentheses/",
+    "companies": [
+      "Amazon",
+      "LinkedIn",
+      "Meta",
+      "Microsoft",
+      "Bloomberg",
+      "Spotify",
+      "TCS"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=WTzjTskDFMg",
+    "video_id": "WTzjTskDFMg"
+  },
+  {
+    "id": 155,
+    "name": "Min Stack",
+    "difficulty": "Medium",
+    "pattern": "Stack & Queue Pattern",
+    "leetcode_url": "https://leetcode.com/problems/min-stack/",
+    "companies": [
+      "Amazon",
+      "Microsoft",
+      "Bloomberg",
+      "Meta",
+      "Google",
+      "Salesforce",
+      "Flipkart",
+      "Adobe India",
+      "Infosys"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=qkLl7nAwYGo",
+    "video_id": "qkLl7nAwYGo"
+  },
+  {
+    "id": 150,
+    "name": "Evaluate Reverse Polish Notation",
+    "difficulty": "Medium",
+    "pattern": "Stack & Queue Pattern",
+    "leetcode_url": "https://leetcode.com/problems/evaluate-reverse-polish-notation/",
+    "companies": [
+      "Google",
+      "LinkedIn",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Oracle",
+      "Flipkart",
+      "Adobe India",
+      "TCS"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=iu0082c4HDE",
+    "video_id": "iu0082c4HDE"
+  },
+  {
+    "id": 232,
+    "name": "Implement Queue using Stacks",
+    "difficulty": "Easy",
+    "pattern": "Stack & Queue Pattern",
+    "leetcode_url": "https://leetcode.com/problems/implement-queue-using-stacks/",
+    "companies": [
+      "Amazon",
+      "Microsoft",
+      "Goldman Sachs",
+      "eBay",
+      "Google",
+      "Flipkart",
+      "Adobe India",
+      "Wipro"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=3Et9MrMc02A",
+    "video_id": "3Et9MrMc02A"
+  },
+  {
+    "id": 225,
+    "name": "Implement Stack using Queues",
+    "difficulty": "Easy",
+    "pattern": "Stack & Queue Pattern",
+    "leetcode_url": "https://leetcode.com/problems/implement-stack-using-queues/",
+    "companies": [
+      "Amazon",
+      "Flipkart",
+      "Adobe India",
+      "Deloitte"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=rW4vm0-DLYc",
+    "video_id": "rW4vm0-DLYc"
+  },
+  {
+    "id": 239,
+    "name": "Sliding Window Maximum",
+    "difficulty": "Hard",
+    "pattern": "Monotonic Stack Pattern",
+    "leetcode_url": "https://leetcode.com/problems/sliding-window-maximum/",
+    "companies": [
+      "Amazon",
+      "Google",
+      "Microsoft",
+      "Salesforce",
+      "Uber",
+      "Meta",
+      "D. E. Shaw",
+      "Infosys"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=DfljaUwZsOk",
+    "video_id": "DfljaUwZsOk"
+  },
+  {
+    "id": 496,
+    "name": "Next Greater Element I",
+    "difficulty": "Easy",
+    "pattern": "Monotonic Stack Pattern",
+    "leetcode_url": "https://leetcode.com/problems/next-greater-element-i/",
+    "companies": [
+      "Amazon",
+      "Bloomberg",
+      "Adobe",
+      "Apple",
+      "Meta",
+      "Goldman Sachs",
+      "Microsoft",
+      "Oracle",
+      "PayPal",
+      "Salesforce",
+      "Uber",
+      "Disney+Hotstar",
+      "IBM",
+      "Samsung",
+      "Dunzo"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=68a11_655Co",
+    "video_id": "68a11_655Co"
+  },
+  {
+    "id": 739,
+    "name": "Daily Temperatures",
+    "difficulty": "Medium",
+    "pattern": "Monotonic Stack Pattern",
+    "leetcode_url": "https://leetcode.com/problems/daily-temperatures/",
+    "companies": [
+      "Meta",
+      "Amazon",
+      "Microsoft",
+      "C3 IoT",
+      "Uber",
+      "Salesforce",
+      "Flipkart",
+      "Ola",
+      "Accenture"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=cTBiBSnjO3c",
+    "video_id": "cTBiBSnjO3c"
+  },
+  {
+    "id": 84,
+    "name": "Largest Rectangle in Histogram",
+    "difficulty": "Hard",
+    "pattern": "Monotonic Stack Pattern",
+    "leetcode_url": "https://leetcode.com/problems/largest-rectangle-in-histogram/",
+    "companies": [
+      "Amazon",
+      "Microsoft",
+      "Adobe",
+      "Meta",
+      "Uber",
+      "Bloomberg",
+      "Flipkart",
+      "Ola",
+      "TCS"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=zx5Sw9x30A0",
+    "video_id": "zx5Sw9x30A0"
+  },
+  {
+    "id": 503,
+    "name": "Next Greater Element II",
+    "difficulty": "Medium",
+    "pattern": "Monotonic Stack Pattern",
+    "leetcode_url": "https://leetcode.com/problems/next-greater-element-ii/",
+    "companies": [
+      "Adobe",
+      "Amazon",
+      "Apple",
+      "Bloomberg",
+      "Meta",
+      "Google",
+      "Microsoft",
+      "Oracle",
+      "Salesforce",
+      "VMware",
+      "Zillow",
+      "Walmart Global Tech"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=7PrncD7v9YQ",
+    "video_id": "7PrncD7v9YQ"
+  },
+  {
+    "id": 901,
+    "name": "Online Stock Span",
+    "difficulty": "Medium",
+    "pattern": "Monotonic Stack Pattern",
+    "leetcode_url": "https://leetcode.com/problems/online-stock-span/",
+    "companies": [
+      "Amazon",
+      "Bloomberg",
+      "Adobe",
+      "Flipkart",
+      "Ola",
+      "Accenture"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=slYh0ZNEqSw",
+    "video_id": "slYh0ZNEqSw"
+  },
+  {
+    "id": 215,
+    "name": "Kth Largest Element in an Array",
+    "difficulty": "Medium",
+    "pattern": "Heap / Priority Queue Pattern",
+    "leetcode_url": "https://leetcode.com/problems/kth-largest-element-in-an-array/",
+    "companies": [
+      "Meta",
+      "Amazon",
+      "LinkedIn",
+      "Microsoft",
+      "Google",
+      "Bloomberg",
+      "Flipkart",
+      "Ola",
+      "Infosys"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=XEmy13g1Qxc",
+    "video_id": "XEmy13g1Qxc"
+  },
+  {
+    "id": 1046,
+    "name": "Last Stone Weight",
+    "difficulty": "Easy",
+    "pattern": "Heap / Priority Queue Pattern",
+    "leetcode_url": "https://leetcode.com/problems/last-stone-weight/",
+    "companies": [
+      "Visa",
+      "Nvidia",
+      "Amazon",
+      "Salesforce",
+      "Flipkart",
+      "Ola",
+      "Cognizant"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=gestn1v8v0Q",
+    "video_id": "gestn1v8v0Q"
+  },
+  {
+    "id": 973,
+    "name": "K Closest Points to Origin",
+    "difficulty": "Medium",
+    "pattern": "Heap / Priority Queue Pattern",
+    "leetcode_url": "https://leetcode.com/problems/k-closest-points-to-origin/",
+    "companies": [
+      "Meta",
+      "Amazon",
+      "Microsoft",
+      "Asana",
+      "Google",
+      "LinkedIn",
+      "Flipkart",
+      "Ola",
+      "Accenture"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=rI2EBUEMfTk",
+    "video_id": "rI2EBUEMfTk"
+  },
+  {
+    "id": 23,
+    "name": "Merge k Sorted Lists",
+    "difficulty": "Hard",
+    "pattern": "Heap / Priority Queue Pattern",
+    "leetcode_url": "https://leetcode.com/problems/merge-k-sorted-lists/",
+    "companies": [
+      "Meta",
+      "Amazon",
+      "Microsoft",
+      "Apple",
+      "Google",
+      "ByteDance",
+      "Walmart Global Tech",
+      "Sprinklr",
+      "Infosys"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=q5a5OiGbT6Q",
+    "video_id": "q5a5OiGbT6Q"
+  },
+  {
+    "id": 295,
+    "name": "Find Median from Data Stream",
+    "difficulty": "Hard",
+    "pattern": "Heap / Priority Queue Pattern",
+    "leetcode_url": "https://leetcode.com/problems/find-median-from-data-stream/",
+    "companies": [
+      "Adobe",
+      "Airbnb",
+      "Amazon",
+      "Apple",
+      "Bloomberg",
+      "ByteDance",
+      "Citadel",
+      "DoorDash",
+      "eBay",
+      "Expedia",
+      "Meta",
+      "Goldman Sachs",
+      "Google",
+      "Indeed",
+      "LinkedIn",
+      "Microsoft",
+      "Nvidia",
+      "Oracle",
+      "Paytm",
+      "Salesforce",
+      "SAP",
+      "Snapchat",
+      "Spotify",
+      "Twilio",
+      "Twitter",
+      "Uber",
+      "VMware",
+      "Walmart Global Tech"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=itmhHWaHupI",
+    "video_id": "itmhHWaHupI"
+  },
+  {
+    "id": 435,
+    "name": "Non-overlapping Intervals",
+    "difficulty": "Medium",
+    "pattern": "Greedy & Intervals Pattern",
+    "leetcode_url": "https://leetcode.com/problems/non-overlapping-intervals/",
+    "companies": [
+      "Meta",
+      "Amazon",
+      "Microsoft",
+      "Ola",
+      "Swiggy",
+      "Deloitte"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=nONCGxWoUfM",
+    "video_id": "nONCGxWoUfM"
+  },
+  {
+    "id": 57,
+    "name": "Insert Interval",
+    "difficulty": "Medium",
+    "pattern": "Greedy & Intervals Pattern",
+    "leetcode_url": "https://leetcode.com/problems/insert-interval/",
+    "companies": [
+      "Bloomberg",
+      "Apple",
+      "Microsoft",
+      "Uber",
+      "Google",
+      "Amazon",
+      "LinkedIn",
+      "Meta",
+      "MongoDB",
+      "Walmart Labs",
+      "Oracle",
+      "TCS",
+      "Tesco",
+      "Tiktok"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=A8NUOmlwOlM",
+    "video_id": "A8NUOmlwOlM"
+  },
+  {
+    "id": 452,
+    "name": "Minimum Number of Arrows to Burst Balloons",
+    "difficulty": "Medium",
+    "pattern": "Greedy & Intervals Pattern",
+    "leetcode_url": "https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/",
+    "companies": [
+      "Meta",
+      "Google",
+      "Goldman Sachs",
+      "Ola",
+      "Swiggy",
+      "Cognizant"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=lPmkKnvNPrw",
+    "video_id": "lPmkKnvNPrw"
+  },
+  {
+    "id": 860,
+    "name": "Lemonade Change",
+    "difficulty": "Easy",
+    "pattern": "Greedy & Intervals Pattern",
+    "leetcode_url": "https://leetcode.com/problems/lemonade-change/",
+    "companies": [
+      "Atlassian",
+      "Amazon",
+      "Apple",
+      "Ola",
+      "Swiggy",
+      "Cognizant"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=n_tb4WU4G7E",
+    "video_id": "n_tb4WU4G7E"
+  },
+  {
+    "id": 55,
+    "name": "Jump Game",
+    "difficulty": "Medium",
+    "pattern": "Greedy & Intervals Pattern",
+    "leetcode_url": "https://leetcode.com/problems/jump-game/",
+    "companies": [
+      "Amazon",
+      "Meta",
+      "Apple",
+      "DoorDash",
+      "Flipkart",
+      "Google",
+      "Accenture"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=Yan0cv2cLy8",
+    "video_id": "Yan0cv2cLy8"
+  },
+  {
+    "id": 678,
+    "name": "Valid Parenthesis String",
+    "difficulty": "Medium",
+    "pattern": "Greedy & Intervals Pattern",
+    "leetcode_url": "https://leetcode.com/problems/valid-parenthesis-string/",
+    "companies": [
+      "LinkedIn",
+      "Amazon",
+      "Meta",
+      "Google",
+      "Yahoo",
+      "Ola",
+      "Swiggy",
+      "TCS"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=QhPdNS143Rs",
+    "video_id": "QhPdNS143Rs"
+  },
+  {
+    "id": 78,
+    "name": "Subsets",
+    "difficulty": "Medium",
+    "pattern": "Backtracking Pattern",
+    "leetcode_url": "https://leetcode.com/problems/subsets/",
+    "companies": [
+      "Meta",
+      "Amazon",
+      "Google",
+      "Bloomberg",
+      "Microsoft",
+      "Apple",
+      "Flipkart",
+      "Microsoft India",
+      "TCS"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=REOH22Xwdlk",
+    "video_id": "REOH22Xwdlk"
+  },
+  {
+    "id": 90,
+    "name": "Subsets II",
+    "difficulty": "Medium",
+    "pattern": "Backtracking Pattern",
+    "leetcode_url": "https://leetcode.com/problems/subsets-ii/",
+    "companies": [
+      "Meta",
+      "Amazon",
+      "Bloomberg",
+      "Adobe",
+      "Flipkart",
+      "Microsoft India",
+      "TCS"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=Vn2v6ajA7U0",
+    "video_id": "Vn2v6ajA7U0"
+  },
+  {
+    "id": 39,
+    "name": "Combination Sum",
+    "difficulty": "Medium",
+    "pattern": "Backtracking Pattern",
+    "leetcode_url": "https://leetcode.com/problems/combination-sum/",
+    "companies": [
+      "Amazon",
+      "Meta",
+      "Microsoft",
+      "Airbnb",
+      "Apple",
+      "Adobe",
+      "Flipkart",
+      "Microsoft India",
+      "Deloitte"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=GBKI9VSKdGg",
+    "video_id": "GBKI9VSKdGg"
+  },
+  {
+    "id": 40,
+    "name": "Combination Sum II",
+    "difficulty": "Medium",
+    "pattern": "Backtracking Pattern",
+    "leetcode_url": "https://leetcode.com/problems/combination-sum-ii/",
+    "companies": [
+      "Meta",
+      "Amazon",
+      "Reddit",
+      "Bloomberg",
+      "Oracle",
+      "Flipkart",
+      "Microsoft India",
+      "Wipro"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=rSA3t6BDDwg",
+    "video_id": "rSA3t6BDDwg"
+  },
+  {
+    "id": 46,
+    "name": "Permutations",
+    "difficulty": "Medium",
+    "pattern": "Backtracking Pattern",
+    "leetcode_url": "https://leetcode.com/problems/permutations/",
+    "companies": [
+      "Amazon",
+      "Meta",
+      "LinkedIn",
+      "Google",
+      "Microsoft",
+      "Apple",
+      "Flipkart",
+      "Microsoft India",
+      "Wipro"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=s7AvT7cGdSo",
+    "video_id": "s7AvT7cGdSo"
+  },
+  {
+    "id": 17,
+    "name": "Letter Combinations of a Phone Number",
+    "difficulty": "Medium",
+    "pattern": "Backtracking Pattern",
+    "leetcode_url": "https://leetcode.com/problems/letter-combinations-of-a-phone-number/",
+    "companies": [
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Uber",
+      "Apple",
+      "Google",
+      "Swiggy",
+      "Infosys"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=0snEunUacZY",
+    "video_id": "0snEunUacZY"
+  },
+  {
+    "id": 131,
+    "name": "Palindrome Partitioning",
+    "difficulty": "Medium",
+    "pattern": "Backtracking Pattern",
+    "leetcode_url": "https://leetcode.com/problems/palindrome-partitioning/",
+    "companies": [
+      "Apple",
+      "Google",
+      "TikTok",
+      "Amazon",
+      "Meta",
+      "Flipkart",
+      "Microsoft India",
+      "Infosys"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=3jvWodd7ht0",
+    "video_id": "3jvWodd7ht0"
+  },
+  {
+    "id": 51,
+    "name": "N-Queens",
+    "difficulty": "Hard",
+    "pattern": "Backtracking Pattern",
+    "leetcode_url": "https://leetcode.com/problems/n-queens/",
+    "companies": [
+      "Amazon",
+      "Meta",
+      "Microsoft",
+      "Google",
+      "Bloomberg",
+      "Adobe",
+      "Flipkart",
+      "Microsoft India",
+      "Deloitte"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=Ph95IHmRp5M",
+    "video_id": "Ph95IHmRp5M"
+  },
+  {
+    "id": 37,
+    "name": "Sudoku Solver",
+    "difficulty": "Hard",
+    "pattern": "Backtracking Pattern",
+    "leetcode_url": "https://leetcode.com/problems/sudoku-solver/",
+    "companies": [
+      "Amazon",
+      "Apple",
+      "Microsoft",
+      "Google",
+      "DoorDash",
+      "Intuit",
+      "Flipkart",
+      "Microsoft India",
+      "Accenture"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=FWAIf_EVUKE",
+    "video_id": "FWAIf_EVUKE"
+  },
+  {
+    "id": 226,
+    "name": "Invert Binary Tree",
+    "difficulty": "Easy",
+    "pattern": "Trees & BST Pattern",
+    "leetcode_url": "https://leetcode.com/problems/invert-binary-tree/",
+    "companies": [
+      "Amazon",
+      "Meta",
+      "Google",
+      "Uber",
+      "Apple",
+      "Bloomberg",
+      "Flipkart",
+      "Zoho",
+      "Wipro"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=OnSn2XEQ4MY",
+    "video_id": "OnSn2XEQ4MY"
+  },
+  {
+    "id": 104,
+    "name": "Maximum Depth of Binary Tree",
+    "difficulty": "Easy",
+    "pattern": "Trees & BST Pattern",
+    "leetcode_url": "https://leetcode.com/problems/maximum-depth-of-binary-tree/",
+    "companies": [
+      "LinkedIn",
+      "Amazon",
+      "Spotify",
+      "Google",
+      "Microsoft",
+      "Bloomberg",
+      "Flipkart",
+      "Zoho",
+      "Cognizant"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=hTM3phVI6YQ",
+    "video_id": "hTM3phVI6YQ"
+  },
+  {
+    "id": 543,
+    "name": "Diameter of Binary Tree",
+    "difficulty": "Easy",
+    "pattern": "Trees & BST Pattern",
+    "leetcode_url": "https://leetcode.com/problems/diameter-of-binary-tree/",
+    "companies": [
+      "Meta",
+      "Amazon",
+      "Bloomberg",
+      "Google",
+      "Microsoft",
+      "Apple",
+      "Flipkart",
+      "Zoho",
+      "Deloitte"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=bkxqA8Rfo04",
+    "video_id": "bkxqA8Rfo04"
+  },
+  {
+    "id": 110,
+    "name": "Balanced Binary Tree",
+    "difficulty": "Easy",
+    "pattern": "Trees & BST Pattern",
+    "leetcode_url": "https://leetcode.com/problems/balanced-binary-tree/",
+    "companies": [
+      "Amazon",
+      "Spotify",
+      "Meta",
+      "Google",
+      "Adobe",
+      "Flipkart",
+      "Zoho",
+      "Cognizant"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=QfJsau0ItOY",
+    "video_id": "QfJsau0ItOY"
+  },
+  {
+    "id": 100,
+    "name": "Same Tree",
+    "difficulty": "Easy",
+    "pattern": "Trees & BST Pattern",
+    "leetcode_url": "https://leetcode.com/problems/same-tree/",
+    "companies": [
+      "LinkedIn",
+      "Amazon",
+      "Google",
+      "Apple",
+      "Meta",
+      "Bloomberg",
+      "Flipkart",
+      "Zoho",
+      "Wipro"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=vRbbcKXCxCw",
+    "video_id": "vRbbcKXCxCw"
+  },
+  {
+    "id": 102,
+    "name": "Binary Tree Level Order Traversal",
+    "difficulty": "Medium",
+    "pattern": "Trees & BST Pattern",
+    "leetcode_url": "https://leetcode.com/problems/binary-tree-level-order-traversal/",
+    "companies": [
+      "LinkedIn",
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Bloomberg",
+      "Oracle",
+      "Flipkart",
+      "Zoho",
+      "TCS"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=6ZnyEApgFYg",
+    "video_id": "6ZnyEApgFYg"
+  },
+  {
+    "id": 199,
+    "name": "Binary Tree Right Side View",
+    "difficulty": "Medium",
+    "pattern": "Trees & BST Pattern",
+    "leetcode_url": "https://leetcode.com/problems/binary-tree-right-side-view/",
+    "companies": [
+      "Meta",
+      "Amazon",
+      "Bloomberg",
+      "Qualtrics",
+      "Oracle",
+      "Apple",
+      "Flipkart",
+      "Zoho",
+      "Accenture"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=d4zLyf32TnQ",
+    "video_id": "d4zLyf32TnQ"
+  },
+  {
+    "id": 236,
+    "name": "Lowest Common Ancestor of a Binary Tree",
+    "difficulty": "Medium",
+    "pattern": "Trees & BST Pattern",
+    "leetcode_url": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/",
+    "companies": [
+      "Meta",
+      "Amazon",
+      "LinkedIn",
+      "Microsoft",
+      "Google",
+      "Oracle",
+      "Flipkart",
+      "Zoho",
+      "Cognizant"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=gs2LMfuOR9k",
+    "video_id": "gs2LMfuOR9k"
+  },
+  {
+    "id": 124,
+    "name": "Binary Tree Maximum Path Sum",
+    "difficulty": "Hard",
+    "pattern": "Trees & BST Pattern",
+    "leetcode_url": "https://leetcode.com/problems/binary-tree-maximum-path-sum/",
+    "companies": [
+      "DoorDash",
+      "Amazon",
+      "Meta",
+      "Microsoft",
+      "Google",
+      "ByteDance",
+      "Sprinklr",
+      "Wipro"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=Hr5cWUld4vU",
+    "video_id": "Hr5cWUld4vU"
+  },
+  {
+    "id": 297,
+    "name": "Serialize and Deserialize Binary Tree",
+    "difficulty": "Hard",
+    "pattern": "Trees & BST Pattern",
+    "leetcode_url": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree/",
+    "companies": [
+      "Amazon",
+      "Microsoft",
+      "LinkedIn",
+      "DoorDash",
+      "Uber",
+      "Nvidia",
+      "Flipkart",
+      "Zoho",
+      "Deloitte"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=u4JAi2JJhI8",
+    "video_id": "u4JAi2JJhI8"
+  },
+  {
+    "id": 235,
+    "name": "Lowest Common Ancestor of a Binary Search Tree",
+    "difficulty": "Easy",
+    "pattern": "Trees & BST Pattern",
+    "leetcode_url": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/",
+    "companies": [
+      "LinkedIn",
+      "Meta",
+      "Amazon",
+      "Apple",
+      "Google",
+      "Microsoft",
+      "Flipkart",
+      "Zoho",
+      "Accenture"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=gs2LMfuOR9k",
+    "video_id": "gs2LMfuOR9k"
+  },
+  {
+    "id": 98,
+    "name": "Validate Binary Search Tree",
+    "difficulty": "Medium",
+    "pattern": "Trees & BST Pattern",
+    "leetcode_url": "https://leetcode.com/problems/validate-binary-search-tree/",
+    "companies": [
+      "Amazon",
+      "Bloomberg",
+      "Meta",
+      "Microsoft",
+      "Adobe",
+      "Qualtrics",
+      "Flipkart",
+      "Zoho",
+      "Cognizant"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=s6ATEkipzow",
+    "video_id": "s6ATEkipzow"
+  },
+  {
+    "id": 230,
+    "name": "Kth Smallest Element in a BST",
+    "difficulty": "Medium",
+    "pattern": "Trees & BST Pattern",
+    "leetcode_url": "https://leetcode.com/problems/kth-smallest-element-in-a-bst/",
+    "companies": [
+      "Uber",
+      "Amazon",
+      "Meta",
+      "Microsoft",
+      "LinkedIn",
+      "Flipkart",
+      "Zoho",
+      "Cognizant"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=5LUXSvlkUrw",
+    "video_id": "5LUXSvlkUrw"
+  },
+  {
+    "id": 173,
+    "name": "Binary Search Tree Iterator",
+    "difficulty": "Medium",
+    "pattern": "Trees & BST Pattern",
+    "leetcode_url": "https://leetcode.com/problems/binary-search-tree-iterator/",
+    "companies": [
+      "Meta",
+      "Microsoft",
+      "Amazon",
+      "Bloomberg",
+      "Salesforce",
+      "Google",
+      "Flipkart",
+      "Zoho",
+      "Infosys"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=RXy5RzGF5wo",
+    "video_id": "RXy5RzGF5wo"
+  },
+  {
+    "id": 450,
+    "name": "Delete Node in a BST",
+    "difficulty": "Medium",
+    "pattern": "Trees & BST Pattern",
+    "leetcode_url": "https://leetcode.com/problems/delete-node-in-a-bst/",
+    "companies": [
+      "Amazon",
+      "Microsoft",
+      "Oracle",
+      "Google",
+      "LinkedIn",
+      "Flipkart",
+      "Zoho",
+      "TCS"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=LFzAoJJt92M",
+    "video_id": "LFzAoJJt92M"
+  },
+  {
+    "id": 200,
+    "name": "Number of Islands",
+    "difficulty": "Medium",
+    "pattern": "Graph Traversal Pattern",
+    "leetcode_url": "https://leetcode.com/problems/number-of-islands/",
+    "companies": [
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "Bloomberg",
+      "Google",
+      "LinkedIn",
+      "Ola",
+      "Swiggy",
+      "Cognizant"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=pV2kpPD66nE",
+    "video_id": "pV2kpPD66nE"
+  },
+  {
+    "id": 695,
+    "name": "Max Area of Island",
+    "difficulty": "Medium",
+    "pattern": "Graph Traversal Pattern",
+    "leetcode_url": "https://leetcode.com/problems/max-area-of-island/",
+    "companies": [
+      "Amazon",
+      "Meta",
+      "Microsoft",
+      "Google",
+      "Qualtrics",
+      "LinkedIn",
+      "Ola",
+      "Swiggy",
+      "Infosys"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=iJGr1OtmH0c",
+    "video_id": "iJGr1OtmH0c"
+  },
+  {
+    "id": 994,
+    "name": "Rotting Oranges",
+    "difficulty": "Medium",
+    "pattern": "Graph Traversal Pattern",
+    "leetcode_url": "https://leetcode.com/problems/rotting-oranges/",
+    "companies": [
+      "Amazon",
+      "Microsoft",
+      "VMware",
+      "LinkedIn",
+      "Ola",
+      "Swiggy",
+      "Wipro"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=y704fEOx0s0",
+    "video_id": "y704fEOx0s0"
+  },
+  {
+    "id": 130,
+    "name": "Surrounded Regions",
+    "difficulty": "Medium",
+    "pattern": "Graph Traversal Pattern",
+    "leetcode_url": "https://leetcode.com/problems/surrounded-regions/",
+    "companies": [
+      "Google",
+      "Bloomberg",
+      "Uber",
+      "TikTok",
+      "Ola",
+      "Swiggy",
+      "Wipro"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=9z2BunfoZ5Y",
+    "video_id": "9z2BunfoZ5Y"
+  },
+  {
+    "id": 133,
+    "name": "Clone Graph",
+    "difficulty": "Medium",
+    "pattern": "Graph Traversal Pattern",
+    "leetcode_url": "https://leetcode.com/problems/clone-graph/",
+    "companies": [
+      "Meta",
+      "Amazon",
+      "Bloomberg",
+      "Google",
+      "Microsoft",
+      "Pinterest",
+      "Ola",
+      "Swiggy",
+      "Accenture"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=mQeF6bN8hMk",
+    "video_id": "mQeF6bN8hMk"
+  },
+  {
+    "id": 207,
+    "name": "Course Schedule",
+    "difficulty": "Medium",
+    "pattern": "Graph Traversal Pattern",
+    "leetcode_url": "https://leetcode.com/problems/course-schedule/",
+    "companies": [
+      "Amazon",
+      "Microsoft",
+      "Meta",
+      "TikTok",
+      "Google",
+      "Apple",
+      "Ola",
+      "Swiggy",
+      "Deloitte"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=EgI5nU9etnU",
+    "video_id": "EgI5nU9etnU"
+  },
+  {
+    "id": 210,
+    "name": "Course Schedule II",
+    "difficulty": "Medium",
+    "pattern": "Graph Traversal Pattern",
+    "leetcode_url": "https://leetcode.com/problems/course-schedule-ii/",
+    "companies": [
+      "Amazon",
+      "Google",
+      "Microsoft",
+      "Robinhood",
+      "Meta",
+      "Apple",
+      "Ola",
+      "Swiggy",
+      "TCS"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=Akt3glAwyfY",
+    "video_id": "Akt3glAwyfY"
+  },
+  {
+    "id": 547,
+    "name": "Number of Provinces",
+    "difficulty": "Medium",
+    "pattern": "Graph Traversal Pattern",
+    "leetcode_url": "https://leetcode.com/problems/number-of-provinces/",
+    "companies": [
+      "Adobe",
+      "Amazon",
+      "Apple",
+      "Audible",
+      "Bloomberg",
+      "DoorDash",
+      "Dropbox",
+      "eBay",
+      "Meta",
+      "Goldman Sachs",
+      "Google",
+      "Microsoft",
+      "PayPal",
+      "Snapchat",
+      "Twitter",
+      "Two Sigma",
+      "Uber",
+      "ByteDance",
+      "Samsung R&D Institute",
+      "Intuit"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=ACykGxGgkuc",
+    "video_id": "ACykGxGgkuc"
+  },
+  {
+    "id": 417,
+    "name": "Pacific Atlantic Water Flow",
+    "difficulty": "Medium",
+    "pattern": "Graph Traversal Pattern",
+    "leetcode_url": "https://leetcode.com/problems/pacific-atlantic-water-flow/",
+    "companies": [
+      "Google",
+      "Uber",
+      "Amazon",
+      "Salesforce",
+      "Ola",
+      "Swiggy",
+      "Deloitte"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=s-VkcjHqkGI",
+    "video_id": "s-VkcjHqkGI"
+  },
+  {
+    "id": 310,
+    "name": "Minimum Height Trees",
+    "difficulty": "Medium",
+    "pattern": "Graph Traversal Pattern",
+    "leetcode_url": "https://leetcode.com/problems/minimum-height-trees/",
+    "companies": [
+      "Amazon",
+      "Snapchat",
+      "Ola",
+      "Swiggy",
+      "Wipro"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=ivl6BHJVcB0",
+    "video_id": "ivl6BHJVcB0"
+  },
+  {
+    "id": 743,
+    "name": "Network Delay Time (Dijkstra Pattern)",
+    "difficulty": "Medium",
+    "pattern": "Graph Traversal Pattern",
+    "leetcode_url": "https://leetcode.com/problems/network-delay-time/",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Ola",
+      "Swiggy",
+      "Infosys"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=EaphyqKU4PQ",
+    "video_id": "EaphyqKU4PQ"
+  },
+  {
+    "id": 787,
+    "name": "Cheapest Flights Within K Stops",
+    "difficulty": "Medium",
+    "pattern": "Graph Traversal Pattern",
+    "leetcode_url": "https://leetcode.com/problems/cheapest-flights-within-k-stops/",
+    "companies": [
+      "Amazon",
+      "Google",
+      "Airbnb",
+      "Cloudera",
+      "Coupang",
+      "D. E. Shaw",
+      "MakeMyTrip",
+      "Snap",
+      "Snowflake",
+      "Stripe"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=5eIK3zUdYmE",
+    "video_id": "5eIK3zUdYmE"
+  },
+  {
+    "id": 721,
+    "name": "Accounts Merge",
+    "difficulty": "Medium",
+    "pattern": "Graph Traversal Pattern",
+    "leetcode_url": "https://leetcode.com/problems/accounts-merge/",
+    "companies": [
+      "Meta",
+      "Apple",
+      "Google",
+      "Twitter",
+      "Amazon",
+      "LinkedIn",
+      "Ola",
+      "Swiggy",
+      "Accenture"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=6st4IxEF-90",
+    "video_id": "6st4IxEF-90"
+  },
+  {
+    "id": 684,
+    "name": "Redundant Connection",
+    "difficulty": "Medium",
+    "pattern": "Graph Traversal Pattern",
+    "leetcode_url": "https://leetcode.com/problems/redundant-connection/",
+    "companies": [
+      "Google",
+      "Microsoft",
+      "Ola",
+      "Swiggy",
+      "TCS"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=FXWRE67PLL0",
+    "video_id": "FXWRE67PLL0"
+  },
+  {
+    "id": 1584,
+    "name": "Min Cost to Connect All Points (Minimum Spanning Tree)",
+    "difficulty": "Medium",
+    "pattern": "Graph Traversal Pattern",
+    "leetcode_url": "https://leetcode.com/problems/min-cost-to-connect-all-points/",
+    "companies": [
+      "Amazon",
+      "Google",
+      "Uber",
+      "Meta"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=f7JOBJIC-NA",
+    "video_id": "f7JOBJIC-NA"
+  },
+  {
+    "id": 70,
+    "name": "Climbing Stairs",
+    "difficulty": "Easy",
+    "pattern": "Dynamic Programming Pattern",
+    "leetcode_url": "https://leetcode.com/problems/climbing-stairs/",
+    "companies": [
+      "Amazon",
+      "Expedia",
+      "Microsoft",
+      "Uber",
+      "Google",
+      "Adobe",
+      "Flipkart",
+      "Directi",
+      "Wipro"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=Y0lT9Fck7q8",
+    "video_id": "Y0lT9Fck7q8"
+  },
+  {
+    "id": 198,
+    "name": "House Robber",
+    "difficulty": "Medium",
+    "pattern": "Dynamic Programming Pattern",
+    "leetcode_url": "https://leetcode.com/problems/house-robber/",
+    "companies": [
+      "Amazon",
+      "Apple",
+      "Google",
+      "Cisco",
+      "Microsoft",
+      "Adobe",
+      "Walmart Global Tech",
+      "TCS"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=73r3KWiEvyk",
+    "video_id": "73r3KWiEvyk"
+  },
+  {
+    "id": 213,
+    "name": "House Robber II",
+    "difficulty": "Medium",
+    "pattern": "Dynamic Programming Pattern",
+    "leetcode_url": "https://leetcode.com/problems/house-robber-ii/",
+    "companies": [
+      "Google",
+      "Amazon",
+      "Flipkart",
+      "Directi",
+      "Deloitte"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=rWAJCfYYOvM",
+    "video_id": "rWAJCfYYOvM"
+  },
+  {
+    "id": 300,
+    "name": "Longest Increasing Subsequence",
+    "difficulty": "Medium",
+    "pattern": "Dynamic Programming Pattern",
+    "leetcode_url": "https://leetcode.com/problems/longest-increasing-subsequence/",
+    "companies": [
+      "Meta",
+      "Disney+Hotstar",
+      "Amazon",
+      "Samsung",
+      "Zoho",
+      "Google",
+      "Microsoft",
+      "Adobe"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=cjWnW0hdF1Y",
+    "video_id": "cjWnW0hdF1Y"
+  },
+  {
+    "id": 416,
+    "name": "Partition Equal Subset Sum",
+    "difficulty": "Medium",
+    "pattern": "Dynamic Programming Pattern",
+    "leetcode_url": "https://leetcode.com/problems/partition-equal-subset-sum/",
+    "companies": [
+      "Meta",
+      "Microsoft",
+      "Amazon",
+      "Apple",
+      "Google",
+      "Walmart Global Tech",
+      "Cognizant"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=IsvocB5BJhw",
+    "video_id": "IsvocB5BJhw"
+  },
+  {
+    "id": 62,
+    "name": "Unique Paths",
+    "difficulty": "Medium",
+    "pattern": "Dynamic Programming Pattern",
+    "leetcode_url": "https://leetcode.com/problems/unique-paths/",
+    "companies": [
+      "Google",
+      "Meta",
+      "Microsoft",
+      "Amazon",
+      "Apple",
+      "Bloomberg",
+      "Flipkart",
+      "Directi",
+      "Cognizant"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=IlEsdxuD4lY",
+    "video_id": "IlEsdxuD4lY"
+  },
+  {
+    "id": 63,
+    "name": "Unique Paths II",
+    "difficulty": "Medium",
+    "pattern": "Dynamic Programming Pattern",
+    "leetcode_url": "https://leetcode.com/problems/unique-paths-ii/",
+    "companies": [
+      "Cruise Automation",
+      "Meta",
+      "Amazon",
+      "Qualtrics",
+      "Google",
+      "Cisco",
+      "Flipkart",
+      "Directi",
+      "Deloitte"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=d3UOz7zdE4I",
+    "video_id": "d3UOz7zdE4I"
+  },
+  {
+    "id": 64,
+    "name": "Minimum Path Sum",
+    "difficulty": "Medium",
+    "pattern": "Dynamic Programming Pattern",
+    "leetcode_url": "https://leetcode.com/problems/minimum-path-sum/",
+    "companies": [
+      "Amazon",
+      "Microsoft",
+      "Google",
+      "Goldman Sachs",
+      "Oracle",
+      "Apple",
+      "Flipkart",
+      "Directi",
+      "Wipro"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=pGMsrvt0fpU",
+    "video_id": "pGMsrvt0fpU"
+  },
+  {
+    "id": 1143,
+    "name": "Longest Common Subsequence",
+    "difficulty": "Medium",
+    "pattern": "Dynamic Programming Pattern",
+    "leetcode_url": "https://leetcode.com/problems/longest-common-subsequence/",
+    "companies": [
+      "Amazon",
+      "DoorDash",
+      "Bloomberg",
+      "Karat",
+      "Flipkart",
+      "Directi",
+      "Deloitte"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=Ua0GhsJCEWM",
+    "video_id": "Ua0GhsJCEWM"
+  },
+  {
+    "id": 1049,
+    "name": "Last Stone Weight II (0/1 Knapsack Pattern)",
+    "difficulty": "Medium",
+    "pattern": "Dynamic Programming Pattern",
+    "leetcode_url": "https://leetcode.com/problems/last-stone-weight-ii/",
+    "companies": [
+      "Adobe",
+      "Amazon",
+      "Bloomberg",
+      "ByteDance",
+      "Goldman Sachs",
+      "Google",
+      "Samsung R&D Institute",
+      "Expedia Group",
+      "LTIMindtree"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=8KVqVzbhg7U",
+    "video_id": "8KVqVzbhg7U"
+  },
+  {
+    "id": 72,
+    "name": "Edit Distance",
+    "difficulty": "Hard",
+    "pattern": "Dynamic Programming Pattern",
+    "leetcode_url": "https://leetcode.com/problems/edit-distance/",
+    "companies": [
+      "Amazon",
+      "LinkedIn",
+      "Microsoft",
+      "Google",
+      "Apple",
+      "Bloomberg",
+      "Flipkart",
+      "Directi",
+      "TCS"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=XYi2-LPrwm4",
+    "video_id": "XYi2-LPrwm4"
+  },
+  {
+    "id": 322,
+    "name": "Coin Change",
+    "difficulty": "Medium",
+    "pattern": "Dynamic Programming Pattern",
+    "leetcode_url": "https://leetcode.com/problems/coin-change/",
+    "companies": [
+      "Amazon",
+      "Microsoft",
+      "Google",
+      "Mathworks",
+      "Bloomberg",
+      "Meta",
+      "Flipkart",
+      "Directi",
+      "Wipro"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=H9bfqozjoqs",
+    "video_id": "H9bfqozjoqs"
+  },
+  {
+    "id": 494,
+    "name": "Target Sum",
+    "difficulty": "Medium",
+    "pattern": "Dynamic Programming Pattern",
+    "leetcode_url": "https://leetcode.com/problems/target-sum/",
+    "companies": [
+      "Meta",
+      "Amazon",
+      "Google",
+      "Adobe",
+      "Bloomberg",
+      "Flipkart",
+      "Directi",
+      "Cognizant"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=g0npyaQtAQM",
+    "video_id": "g0npyaQtAQM"
+  },
+  {
+    "id": 1039,
+    "name": "Minimum Score Triangulation of Polygon (MCM Pattern)",
+    "difficulty": "Medium",
+    "pattern": "Dynamic Programming Pattern",
+    "leetcode_url": "https://leetcode.com/problems/minimum-score-triangulation-of-polygon/",
+    "companies": [
+      "Uber",
+      "Amazon"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=h6v0c6sW_K4",
+    "video_id": "h6v0c6sW_K4"
+  },
+  {
+    "id": 312,
+    "name": "Burst Balloons",
+    "difficulty": "Hard",
+    "pattern": "Dynamic Programming Pattern",
+    "leetcode_url": "https://leetcode.com/problems/burst-balloons/",
+    "companies": [
+      "Google",
+      "Microsoft",
+      "Apple",
+      "Bloomberg",
+      "Uber",
+      "Amazon",
+      "Flipkart",
+      "Directi",
+      "TCS"
+    ],
+    "youtube_url": "https://www.youtube.com/watch?v=VFskby7lUbw",
+    "video_id": "VFskby7lUbw"
+  }
+]

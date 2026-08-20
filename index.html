@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DSA Guide</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500&family=Plus+Jakarta+Sans:wght@400;600;700&display=swap">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/themes/prism-tomorrow.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.8/dist/katex.min.css">
+    <link rel="stylesheet" href="assets/style.css">
+</head>
+<body class="dark-theme">
+    <div class="header-trigger-zone">
+        <div class="floating-controls-container">
+            <button id="back-btn" class="minimal-back-circle" style="display: none;" aria-label="Go back">
+                <i class="fa-solid fa-chevron-left"></i>
+            </button>
+            <div class="floating-capsule">
+                <button id="home-btn" class="icon-btn" aria-label="Home"><i class="fa-solid fa-house"></i></button>
+                <button id="tracker-btn" class="icon-btn" aria-label="Problem tracker"><i class="fa-solid fa-circle-check"></i></button>
+                <button id="cs-btn" class="icon-btn" aria-label="Cheat sheet"><i class="fa-solid fa-scroll"></i></button>
+                <button id="theme-toggle" class="icon-btn" aria-label="Toggle theme"><i class="fa-solid fa-circle-half-stroke"></i></button>
+            </div>
+        </div>
+    </div>
+
+    <div class="app-container">
+        <main class="main-content">
+            <div id="markdown-container" class="markdown-body"></div>
+        </main>
+    </div>
+
+    <div id="tracker-modal" class="modal-overlay" style="display: none;">
+        <div class="modal-content">
+            <div class="modal-header">
+                <div class="tracker-stats">
+                    <button class="stat-item active" data-filter="all"><span id="stat-total">0</span></button>
+                    <button class="stat-item solved" data-filter="solved"><span class="status-marker solved"><i class="fa-solid fa-check"></i></span> <span id="stat-solved">0</span> Solved</button>
+                    <button class="stat-item progress" data-filter="progress"><span class="status-marker progress"><i class="fa-solid fa-minus"></i></span> <span id="stat-progress">0</span> Progress</button>
+                    <button class="stat-item todo" data-filter="todo"><span class="status-marker todo"></span> <span id="stat-todo">0</span> Todo</button>
+                </div>
+            </div>
+            <div class="modal-body">
+                <div class="tracker-controls">
+                    <div class="search-input-wrapper">
+                        <i class="fa-solid fa-magnifying-glass search-icon"></i>
+                        <input type="text" id="search-input" class="minimal-search" placeholder="Search problem, pattern, company...">
+                        <button id="search-clear-btn" class="search-clear-btn" style="display: none;"><i class="fa-solid fa-xmark"></i></button>
+                    </div>
+                    <select id="difficulty-select" class="minimal-select-sm">
+                        <option value="all">All Diff</option>
+                        <option value="Easy">Easy</option>
+                        <option value="Medium">Medium</option>
+                        <option value="Hard">Hard</option>
+                    </select>
+                </div>
+                <div class="problems-table-container">
+                    <table class="problems-table">
+                        <thead>
+                            <tr>
+                                <th class="th-status" style="width: 36px; text-align: center;"></th>
+                                <th class="th-problem">Problem</th>
+                                <th class="th-diff" style="width: 48px; text-align: center;">Diff</th>
+                                <th class="th-companies" style="width: 68px; text-align: center;">Comp</th>
+                                <th class="th-solution" style="width: 52px; text-align: center;">Soln</th>
+                            </tr>
+                        </thead>
+                        <tbody id="problems-tbody"></tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/prism.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/components/prism-c.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/components/prism-cpp.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/katex@0.16.8/dist/katex.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/katex@0.16.8/dist/contrib/auto-render.min.js"></script>
+    <script src="assets/script.js"></script>
+</body>
+</html>
